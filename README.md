@@ -1,6 +1,6 @@
 # Maple's Faded Mobs
 
-Minecraft 26.2.0 | Version 1.0
+Minecraft 26.2.0 | Version 1.1
 
 Download the mod here! :)
 
